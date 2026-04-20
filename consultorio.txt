@@ -1,0 +1,1 @@
+[{"cedula": "40210108276", "nombre": "genesis Suero", "telefono": "8295552828", "tipo_cliente": "PARTICULAR", "tipo_atencion": "Diagn\u00f3stico", "cantidad": 1, "prioridad": "Normal", "fecha": "29112023", "total_pagar": 130000}]
